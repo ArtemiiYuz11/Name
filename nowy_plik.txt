@@ -1,2 +1,3 @@
 To jest nowy plik w repozytorium.
 Druga linia w nowym pliku.
+Trzecia linia w nowym pliku.
